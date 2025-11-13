@@ -1,2 +1,3 @@
-halina 
-10101997
+romani studio
+2025-10
+1111
